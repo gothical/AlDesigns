@@ -1,0 +1,7 @@
+- jQuery - 1.11.3
+
+- jQuery ui - 1.11.4
+
+- Eric Meyer's css reset V2.0
+
+
