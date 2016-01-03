@@ -1,6 +1,30 @@
 html,body {
 	height:100%;
 }
+
 body{
 	overflow: hidden;
+}
+
+/*Additional bootstrap class*/
+
+.navbar-inverse .navbar-nav>li>a{
+	    float: none;
+	    color: #F0F0F0;
+	}
+
+@media (min-width: 768px){
+	.navbar-nav>li {
+	    float: none;
+	    color: #FFFFFF;
+	}
+}
+
+@media (min-width: 768px){
+	.navbar-right {
+	    left:auto;
+	    margin-right: 0;
+	    top:40%;
+	    min-width: 150px;
+	}
 }
